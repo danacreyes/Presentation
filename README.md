@@ -1,4 +1,5 @@
 # Dana Cossettini Reyes
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Acerca de mí 🤔
 
@@ -22,8 +23,6 @@ Me considero una persona **creativa**, **comprometida** y **responsable**, que d
     <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,mysql,nodejs,python,react,vscode&perline=14" />
   </a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Idiomas 🗣️
 
