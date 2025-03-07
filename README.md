@@ -17,10 +17,13 @@ Me considero una persona **creativa**, **comprometida** y **responsable**, que d
 ---
 
 ## Lenguajes y Tecnologías 💻
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,mysql,nodejs,python,react,vscode&perline=14" />
+  </a>
+</p>
 
-<img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="70"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="70"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="70"/><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="70"/><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="70"/><img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" alt="Assembler" width="70"/><img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="Jupyter" width="70"/><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="70"/><img src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000" alt="SQL" width="70"/>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Idiomas 🗣️
 
