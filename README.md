@@ -18,15 +18,15 @@ Me considero una persona **creativa**, **comprometida** y **responsable**, que d
 
 ## Lenguajes y Tecnologías 💻
 
-![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png)
-![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![Assembler](https://upload.wikimedia.org/wikipedia/commons/a/a2/Assembly_language_icon.svg)
-![Jupyter](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Jupyter_logo.svg/512px-Jupyter_logo.svg.png)
-![Git](https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-Logo.svg)
-![SQL](https://upload.wikimedia.org/wikipedia/commons/0/01/SQL-Logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Assembly_language_icon.svg" alt="Assembler" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Jupyter_logo.svg/512px-Jupyter_logo.svg.png" alt="Jupyter" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-Logo.svg" alt="Git" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/SQL-Logo.svg" alt="SQL" width="40"/>
 
 ---
 
